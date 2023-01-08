@@ -1,6 +1,5 @@
 *{
-    margin: 0;
-    font-family: font-family: 'Open Sans', sans-serif;
+margin: 0%;
 }
 .bg-bennar{
 background-image: url(banner/banner-e\ \(1\).png);
@@ -43,7 +42,7 @@ background-size: cover;
 #image{
     position: absolute;
     width: 569px;
-    height: 600.3px;
+    height: 700.3px;
     left: 700px;
     top: 900px;
 }
@@ -51,8 +50,8 @@ background-size: cover;
     position: absolute;
     width: 569px;
     height: 723.3px;
-    left: 100px;
-    top: 1000px;
+    left: 150px;
+    top: 1050px;
 }
 .My-failures{
     font-family: 'Work Sans';
@@ -145,9 +144,7 @@ text-align: center;
     gap: 170px;
     padding: 100px 100px;
 }
-.sub-con{
 
-}
 .sub-mail{
 right: 300px;
 left: 1046px;
